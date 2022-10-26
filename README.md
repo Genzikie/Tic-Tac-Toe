@@ -18,9 +18,9 @@ The program displays a simple menu with the title, the ERovoutika logo, and the 
 
 <img src="fig1.png">
 
-Figure 1. Main menu.
 
-	When you press the play button, a tic-tac-toe game board appears in place of the menu window. The game board is made up of 3x3 buttons that, when clicked, reveal a symbol. The X player is represented by X-shaped tools, while the O player is represented by a gear. The X player will make the first move in the game.
+
+When you press the play button, a tic-tac-toe game board appears in place of the menu window. The game board is made up of 3x3 buttons that, when clicked, reveal a symbol. The X player is represented by X-shaped tools, while the O player is represented by a gear. The X player will make the first move in the game.
 
 
 
@@ -30,7 +30,7 @@ Figure 1. Main menu.
 
 <img src="fig2.png">
 
-Figure 2. Empty game board.
+
 
 
 
@@ -40,9 +40,9 @@ Figure 2. Empty game board.
 
 <img src="fig3.png">
 
-Figure 3. X and O symbols.
 
-	The program's goal is to get three consecutive Xs or Os. If there are three Xs in a row, a message box with the words "X Wins!" will appear. The message box will say "O Wins!" if there are three Os. If the board is full and there are no threes in a row from either symbol, the message box will display "Cat game!" “It's a tie!” When the match is concluded, the game board will be restored to its original condition.
+
+The program's goal is to get three consecutive Xs or Os. If there are three Xs in a row, a message box with the words "X Wins!" will appear. The message box will say "O Wins!" if there are three Os. If the board is full and there are no threes in a row from either symbol, the message box will display "Cat game!" “It's a tie!” When the match is concluded, the game board will be restored to its original condition.
 
 
 
@@ -52,14 +52,13 @@ Figure 3. X and O symbols.
 
 <img src="fig4.png">
 
-Figure 4. X Wins.
+
 
 <img src="fig5.png">
 
-Figure 5. O Wins.
 
 
 <img src="fig6.png">
  
-Figure 6. It’s a tie.
+
 
