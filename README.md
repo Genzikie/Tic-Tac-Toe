@@ -1,9 +1,10 @@
 Overview
   
-		Tic-Tac-Toe is a simple two-player game that can be played with a pen and a piece of paper. It's also one of the simplest Python games to create. You can do it on a console, but we'll use Tkinter to create a graphical user interface.
+Tic-Tac-Toe is a simple two-player game that can be played with a pen and a piece of paper. It's also one of the simplest Python games to create. You can do it on a console, but we'll use Tkinter to create a graphical user interface.
 
 Mechanics of Tic-Tac-Toe
-		In Tic Tac Toe, the goal is to get three in a row. You play on a three-by-three gaming board. The first player is known as X, and the second as O. Players take turns alternating between placing Xs and Os on the playing area till one of them has three in a row or all nine tiles are filled. When no one has three in a row, the stalemate is referred to as a cat game.
+
+In Tic Tac Toe, the goal is to get three in a row. You play on a three-by-three gaming board. The first player is known as X, and the second as O. Players take turns alternating between placing Xs and Os on the playing area till one of them has three in a row or all nine tiles are filled. When no one has three in a row, the stalemate is referred to as a cat game.
 
 Features
 
@@ -15,7 +16,7 @@ The program displays a simple menu with the title, the ERovoutika logo, and the 
 
 
 
-
+<img src="fig1.png">
 
 Figure 1. Main menu.
 
@@ -27,7 +28,7 @@ Figure 1. Main menu.
 
 
 
-
+<img src="fig2.png">
 
 Figure 2. Empty game board.
 
@@ -37,7 +38,7 @@ Figure 2. Empty game board.
 
 
 
-
+<img src="fig3.png">
 
 Figure 3. X and O symbols.
 
@@ -49,13 +50,16 @@ Figure 3. X and O symbols.
 
 
 
-
+<img src="fig4.png">
 
 Figure 4. X Wins.
- 
+
+<img src="fig5.png">
+
 Figure 5. O Wins.
 
 
+<img src="fig6.png">
  
 Figure 6. It’s a tie.
 
